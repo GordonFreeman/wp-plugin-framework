@@ -1,0 +1,6 @@
+{
+    "name": "Test Plugin",
+    "output_dir": "/var/www/optin/wp-content/plugins/test",
+    "description": "A plugin for creating seo friendly links",
+    "author_name": "Raj Sekharan"
+}
